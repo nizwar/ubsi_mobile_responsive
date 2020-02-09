@@ -16,6 +16,13 @@ Berikut penampakan tampilan web student (sebelum dan sesudah)
     <td><center>Tampilan Menu Sesudah</centerL</td>
   </tr>
   </table>
+  
+  Kode ini sudah diterapkan diaplikasi MyUbsi Lite - Unofficial
+  <img src="https://lh3.googleusercontent.com/F0_O-KrhEuKtvuoa73o7Dj38Lov6RriI7hjRq4XKsNUXxa1OMDwEunsPg2wPP4-Aek-S=w1366"/>
+  <br/>
+  <h2>Unduh Aplikasinya disini</h2>
+  <p>#Ehem.. jangan lupa rating 5 ya</p>
+  <a href="https://play.google.com/store/apps/details?id=id.nizwar.ubsi_student"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="100px"/></a>
       
   ## Note
   Script dibuat dengan cinta ❤❤❤, boleh didistribusikan untuk apapun, happy coding!
